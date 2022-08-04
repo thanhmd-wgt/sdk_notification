@@ -105,9 +105,9 @@
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:git://github.com/nyholmniklas/arithmetic.git</connection>
-        <developerConnection>scm:git:ssh://github.com:nyholmniklas/arithmetic.git</developerConnection>
-        <url>http://github.com/nyholmniklas/arithmetic</url>
+        <connection>scm:git:git://github.com/nthanhmd-wgt/sdk_notification.git</connection>
+        <developerConnection>scm:git:ssh://github.com:thanhmd-wgt/sdk_notification.git</developerConnection>
+        <url>http://github.com/thanhmd-wgt/sdk_notification</url>
     </scm>
 
     <developers>
